@@ -3,21 +3,21 @@
 # --------------------------------------
 
 nav:
-  logo: # image
+  logo: https://gitee.com/JLJDXJH/own/raw/94a98e1dbf0f4b62b9b59b1bf5886a6b6594637d/b_1a86ce5e8f36c74096a118ef1c601a51.jpg # image
   display_title: true
-  fixed: false # fixed navigation bar
+  fixed: true # fixed navigation bar
 
 # Menu 目錄
 menu:
-  # Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+  主页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  清单||fas fa-list:
+    音乐: /music/ || fas fa-music
+    影视: /movies/ || fas fa-video
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -33,8 +33,10 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/JLJDXJH || Github || '#24292e'
+  fab fa-telegram: https://t.me/JLJDXJH
+  fas fa-envelope: mailto:JLJDXJH@outlook.com || Email || '#4a7dbe'
+  fas fa-twitter: https://twitter.com/JLJDXJH
 
 # Image (圖片設置)
 # --------------------------------------
@@ -44,14 +46,14 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: /img/avatar.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: img/index_img
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
