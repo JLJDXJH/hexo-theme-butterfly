@@ -33,10 +33,10 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
+  fab fa-twitter: https://twitter.com/JLJDXJH
   fab fa-github: https://github.com/JLJDXJH || Github || '#24292e'
   fab fa-telegram: https://t.me/JLJDXJH
   fas fa-envelope: mailto:JLJDXJH@outlook.com || Email || '#4a7dbe'
-  fab fa-twitter: https://twitter.com/JLJDXJH
 
 # Image (圖片設置)
 # --------------------------------------
